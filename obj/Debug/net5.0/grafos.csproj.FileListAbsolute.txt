@@ -1,0 +1,16 @@
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.exe
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.deps.json
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.runtimeconfig.json
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.runtimeconfig.dev.json
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.dll
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\ref\grafos.dll
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\bin\Debug\net5.0\grafos.pdb
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.csproj.AssemblyReference.cache
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.AssemblyInfoInputs.cache
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.AssemblyInfo.cs
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.csproj.CoreCompileInputs.cache
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.dll
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\ref\grafos.dll
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.pdb
+C:\Users\EVA\Documents\Universidad 6° semestre\INGENIERIA DE SOFTWARE II\Algorimos\grafos\obj\Debug\net5.0\grafos.genruntimeconfig.cache
